@@ -2,7 +2,6 @@ from datetime import datetime as dt
 import os
 import re
 from youtube_transcript_api import YouTubeTranscriptApi
-from youtube_transcript_api.formatters import TextFormatter
 
 #Datetime para o nome do arquivo
 
